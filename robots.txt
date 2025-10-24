@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://quilt-x.github.io//sitemap.xml
